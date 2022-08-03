@@ -1,0 +1,10 @@
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\obj\Debug\CS162 Project 1 - Tonacao.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\obj\Debug\CS162_Project_1___Tonacao.Form1.resources
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\obj\Debug\CS162_Project_1___Tonacao.Properties.Resources.resources
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\obj\Debug\CS162 Project 1 - Tonacao.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\obj\Debug\CS162 Project 1 - Tonacao.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\bin\Debug\CS162 Project 1 - Tonacao.exe.config
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\bin\Debug\CS162 Project 1 - Tonacao.exe
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\bin\Debug\CS162 Project 1 - Tonacao.pdb
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\obj\Debug\CS162 Project 1 - Tonacao.exe
+C:\Users\USER\Desktop\thea files\CS162 Project 1 - Tonacao\obj\Debug\CS162 Project 1 - Tonacao.pdb
